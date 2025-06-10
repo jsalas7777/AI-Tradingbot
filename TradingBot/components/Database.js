@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 
 
 
-const uri = 'mongodb+srv://aibucketmain:FNK35W9XFRSt8tuv@aibucket.q14dd.mongodb.net/?retryWrites=true&w=majority&appName=aibucket';
+const uri = '';
 const client = new MongoClient(uri);
 
 let database;
